@@ -23,7 +23,6 @@ Rodar com Live-Server
 - [HTML](https://www.w3schools.com/html/) - Linguagem de marcação usada
 - [CSS](https://www.w3schools.com/css/) - Usada para estilizar o app
 - [SASS](https://www.w3schools.com/sass/) - Usada para estilizar o app
-- [Javascript](https://www.w3schools.com/js/default.asp) - Lógica da app
 
 ## ✒️ Autores
 
