@@ -1,5 +1,5 @@
 # TRILLO -> HOTEL LAS PALMAS
-![TRILLO](https://user-images.githubusercontent.com/79695824/136629171-c2d5a9ff-9819-4cb0-aa35-100295474eb7.png)
+![trillo](https://user-images.githubusercontent.com/79695824/137646312-5802b8c3-d298-4700-880d-167b0af50f6f.png)
 
 ## 🎯 OBJETIVO DO PROJECTO
 ✔ Explorar a utilização de flex-box na construção de layouts
